@@ -1,6 +1,6 @@
 # 🎵 CYD Music Player
 
-A premium, offline audio player designed for the **ESP32 CYD (Cheap Yellow Display)** featuring a 320x240 ILI9341 LCD, XPT2046 resistive touch digitizer, and a PCM5102A I2S DAC. Built with a gorgeous retro-futuristic **Synthwave visual style**, real-time spectrum visualizer, fluid slider scrubbing, and a thread-safe multi-core audio engine.
+A premium, offline audio player designed for the **ESP32 CYD (Cheap Yellow Display) and PCM5102A I2S DAC. Built with a gorgeous retro-futuristic **Synthwave visual style**, real-time spectrum visualizer, fluid slider scrubbing, and a thread-safe multi-core audio engine.
 
 ---
 
