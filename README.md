@@ -28,9 +28,7 @@ The firmware is distributed as a compiled binary. You can flash it directly from
 
 ## ✨ Features
 
-* 🎧 **Pulsing Boot Animation:** Features a 3-second animated vector headphones and flashing music note logo with bouncing equalizers.
 * 🌅 **Synthwave Theme UI:** Responsive covers, persistent sidebar navigation, neon card outlines, and a 16-bar real-time visualizer.
-* ⚡ **Multi-Core Thread Safety:** Dedicated background audio parsing on Core 0, leaving Core 1 isolated to render smooth UI animations and capture touch inputs at 60 FPS (separated via Mutex).
 * 🎚️ **Fluid Drag Sliders:** Seek position, Master Volume, and Backlight Brightness adjust smoothly in real-time as you slide your finger.
 * 🌓 **Color Inversion Toggle:** Easily toggle color inversion ON/OFF inside Settings to maintain compatibility across all CYD display variants.
 * 💿 **100% Offline Music:** Recursively scans and parses local MP3/WAV files from your SD Card, eliminating radio buffering or loading lags.
