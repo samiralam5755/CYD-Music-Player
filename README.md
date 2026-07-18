@@ -49,7 +49,7 @@ To output high-fidelity analog audio, you must connect a **PCM5102A I2S DAC** bo
 | **VIN / VCC** | 3.3V or 5V | Power Supply |
 
 *Note: Make sure to short the GND bridge pads on the PCM5102A board (SCK, FLT, DMP, FMT, BYP) to configure it for internal system clock operations.*
-
+* Check out the [PCM5102A with CYD](https://github.com/hexeguitar/ESP32_TFT_PIO/blob/main/Pics/CYD28_PCM5102A.jpg) for more information.
 ---
 
 ## 📁 SD Card Configuration
